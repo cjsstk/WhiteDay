@@ -1,0 +1,6 @@
+HorrorGame.exe filter=lfs diff=lfs merge=lfs -text
+HorrorGame-WindowNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+HorrorGame/Binaries/Win64/HorrorGame.exe filter=lfs diff=lfs merge=lfs -text
+HorrorGame/Content/Paks/HorrorGame-WindowNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+HorrorGame/Content/Paks/HorrorGame-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+HorrorGame-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
